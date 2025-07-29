@@ -1,5 +1,9 @@
-# SuperStoreDataAnalysis
-SuperStore Data Analysis in Python
+**An end-to-end retail analytics project showcasing data science and business intelligence capabilities through statistical analysis, customer segmentation, and interactive visualizations.**
+
+
+⚡ **Skills Demonstrated:** Python, Statistical Analysis, Customer Segmentation, Data Visualization, Business Intelligence
+# Super Store Data Analysis
+Super Store Data Analysis in Python
 A comprehensive data science project that transforms raw retail data into actionable business insights through advanced analytics, statistical testing, and interactive visualizations.
 
 🎯 Project Overview
@@ -104,6 +108,25 @@ python src/enhanced_analysis.py
 
 View Interactive Visualizations
 
+## 📁 Project Structure
+```
+superstore-analysis/
+├── 📊 data/
+│   └── superstore.csv              # Raw retail dataset
+├── 🐍 src/
+│   └── enhanced_analysis.py        # Main analysis script
+├── 📈 outputs/
+│   ├── static_charts/              # PNG/PDF visualizations
+│   └── interactive_plots/          # HTML Plotly charts
+├── 📋 requirements.txt             # Python dependencies
+├── 📖 README.md                    # Project documentation
+```
+
+**Key Files:**
+- `enhanced_analysis.py` - Complete analysis pipeline (600+ lines)
+- `superstore.csv` - Sample retail dataset with 9,994 transactions
+- `requirements.txt` - All required Python packages
+
 The script will automatically open interactive Plotly visualizations in your browser.
 
 
@@ -166,21 +189,6 @@ Strategic recommendation formulation
   Customer Retention: 15% improvement in At-Risk segment retention
   Market Share Growth: 8% increase in underperforming regions
 
-🏆 Key Skills Demonstrated
-
-  Technical Skills
-  
-  Data Science: Python, Pandas, NumPy, Statistical Analysis
-  Visualization: Matplotlib, Seaborn, Plotly, Interactive Dashboards
-  Machine Learning: Clustering, Segmentation, Pattern Recognition
-  Statistical Testing: Hypothesis Testing, Significance Analysis
-  
-  Business Skills
-  
-  Business Intelligence: KPI Development, Performance Analysis
-  Strategic Thinking: Market Analysis, Growth Strategy
-  Communication: Data Storytelling, Executive Reporting
-  Problem Solving: Root Cause Analysis, Solution Development
 
 ⭐ If you found this project helpful, please give it a star! ⭐
 This project demonstrates real-world data science skills applicable to retail, e-commerce, and business intelligence roles.
