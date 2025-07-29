@@ -71,22 +71,6 @@ Independent T-tests
 Chi-square Tests
 K-means Clustering
 
-📁 Project Structure
-superstore-analysis/
-├── README.md                   # Project documentation
-├── requirements.txt            # Python dependencies
-├── data/
-│   └── superstore.csv         # Raw dataset
-├── notebooks/
-│   └── superstore_analysis.ipynb  # Jupyter notebook
-├── src/
-│   └── enhanced_analysis.py   # Main analysis script
-├── visualizations/
-│   ├── static_charts/         # Matplotlib/Seaborn plots
-│   └── interactive_plots/     # Plotly visualizations
-└── reports/
-    └── executive_summary.pdf  # Business insights summary
-
 🚀 Quick Start
 1. Clone the Repository
 bashgit clone https://github.com/yourusername/superstore-analysis.git
